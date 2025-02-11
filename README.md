@@ -23,6 +23,6 @@ You can also run the tutorial interactively with Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EMODnet/OGC-Webservices-R-Tutorial/main?urlpath=lab/tree/EMODnet_web_services_in_R_part1.ipynb)
 
 -----------------------------------------------------------------------------------------------------------
-<center> Provided by EMODnet. See our <a href=https://emodnet.ec.europa.eu/en/terms-use-emodnet-online-services-data-and-data-products> terms of use </a></center>
+<center> Provided by EMODnet. See our <a href=https://emodnet.ec.europa.eu/en/terms-use-emodnet-online-services-data-and-data-products> terms of use </a>.</center>
 <center><a href="https://emodnet.ec.europa.eu/"><img style="float: None" style="border-width:0" src="https://emodnet.ec.europa.eu/sites/emodnet.ec.europa.eu/files/public/emodnet_logos/web/EMODnet_standard_colour.png" /></a>
 </center>
