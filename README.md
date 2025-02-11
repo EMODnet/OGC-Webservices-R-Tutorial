@@ -5,13 +5,13 @@ Instead of downloading EMODnet data to your local machine before using it for yo
 
 The EMODnet data portals allow web acces to map images, data and metadata through [Open Geospatial Consortium (OGC) Web Services](https://www.opengeospatial.org/standards/owc). This is a set of standards which allow to transfer geospatial data and metadata over the web. We will show following services available from EMODnet:
 
-* [Web Map Service (WMS)](https://www.opengeospatial.org/standards/wms): Allows you to download geo-referenced map images
-
-* [Web Feature Service (WFS)](https://www.opengeospatial.org/standards/wfs): Allows you to download geospatial vector data. There is also an R client under development: [EMODnetWFS](https://emodnet.github.io/EMODnetWFS/)
-
-* [Web Coverage Service (WCS)](https://www.opengeospatial.org/standards/wcs): Allows you to download geospatial raster data
-
 * [Catalogue Service for the Web (CSW)](https://www.opengeospatial.org/standards/cat): Allows you to search the catalogue of metadata to find the dataset you are looking for.
+
+* [Web Map Service (WMS)](https://www.opengeospatial.org/standards/wms): Allows you to download geo-referenced map images.
+
+* [Web Feature Service (WFS)](https://www.opengeospatial.org/standards/wfs): Allows you to download geospatial vector data. There is also an R client under development: [EMODnetWFS](https://emodnet.github.io/EMODnetWFS/).
+
+* [Web Coverage Service (WCS)](https://www.opengeospatial.org/standards/wcs): Allows you to download geospatial raster data.
 
 For an introduction to OGC web services and a full list of URL's you can access the [web service doucmentation repository on GitHub](https://github.com/EMODnet/Web-Service-Documentation). The exercises below cover some specific examples of how to acces and search for the data you require for your applications. You are free to use and modify this code in your own work.
 
