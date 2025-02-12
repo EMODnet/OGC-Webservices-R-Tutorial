@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.1.0
+  - r-tidyverse
+  - r-rgdal
+  - r-raster
+  - r-mapdata
+  - r-maptools
+  - r-downloader
+  - r-directlabels
+  - r-rasterVis
+  - r-XML
+  - r-ncdf4
+  - r-kableExtra
+  - r-rjson
+  - r-reshape2
+  - r-RColorBrewer
